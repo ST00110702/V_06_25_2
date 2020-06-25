@@ -21,6 +21,7 @@ namespace V_06_25_2
         {
             int a=1;
             MessageBox.Show(""+(10/a));
+            button12.Visible = false;
         }
     }
 }
